@@ -1,0 +1,10 @@
+Changed container:
+Container contains 8 elements.
+1: It is Ball: Radius = 13. Volume = 9202.771923. Density = 14.000000.
+2: It is Parallelepiped: a = 10. b = 10. c = 10. Volume = 1000.000000. Density = 5.123450.
+3: It is Ball: Radius = 3. Volume = 113.097334. Density = 4.400000.
+4: It is Parallelepiped: a = 3. b = 4. c = 5. Volume = 60.000000. Density = 7.100000.
+5: It is Tetrahedron: a = 330. Volume = 55.000000. Density = 49.000000.
+6: It is Parallelepiped: a = 1. b = 2. c = 3. Volume = 6.000000. Density = 5.000000.
+7: It is Tetrahedron: a = 30. Volume = 5.000000. Density = 40.000000.
+8: It is Parallelepiped: a = 2. b = 2. c = 1. Volume = 4.000000. Density = 5.000000.

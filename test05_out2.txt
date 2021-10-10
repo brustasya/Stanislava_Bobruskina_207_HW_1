@@ -1,0 +1,26 @@
+Changed container:
+Container contains 24 elements.
+1: It is Ball: Radius = 63. Volume = 1047394.406470. Density = 14.000000.
+2: It is Parallelepiped: a = 134. b = 10. c = 10. Volume = 13400.000000. Density = 8.345000.
+3: It is Ball: Radius = 13. Volume = 9202.771923. Density = 14.000000.
+4: It is Parallelepiped: a = 3. b = 41. c = 5. Volume = 615.000000. Density = 348.348000.
+5: It is Parallelepiped: a = 7. b = 8. c = 10. Volume = 560.000000. Density = 7.125000.
+6: It is Ball: Radius = 5. Volume = 523.598767. Density = 4.400000.
+7: It is Ball: Radius = 3. Volume = 113.097334. Density = 14.000000.
+8: It is Ball: Radius = 3. Volume = 113.097334. Density = 112112.110000.
+9: It is Ball: Radius = 3. Volume = 113.097334. Density = 4.445655.
+10: It is Tetrahedron: a = 644. Volume = 107.333333. Density = 34.000000.
+11: It is Parallelepiped: a = 3. b = 5. c = 5. Volume = 75.000000. Density = 6.000000.
+12: It is Parallelepiped: a = 11. b = 2. c = 3. Volume = 66.000000. Density = 5.000000.
+13: It is Parallelepiped: a = 3. b = 3. c = 6. Volume = 54.000000. Density = 7.200000.
+14: It is Parallelepiped: a = 7. b = 2. c = 3. Volume = 42.000000. Density = 5.000000.
+15: It is Parallelepiped: a = 10. b = 1. c = 4. Volume = 40.000000. Density = 5.123450.
+16: It is Tetrahedron: a = 80. Volume = 13.333333. Density = 40.000000.
+17: It is Parallelepiped: a = 6. b = 2. c = 1. Volume = 12.000000. Density = 5.000000.
+18: It is Parallelepiped: a = 2. b = 4. c = 1. Volume = 8.000000. Density = 5.000000.
+19: It is Parallelepiped: a = 1. b = 2. c = 3. Volume = 6.000000. Density = 567.000000.
+20: It is Tetrahedron: a = 30. Volume = 5.000000. Density = 49.000000.
+21: It is Tetrahedron: a = 30. Volume = 5.000000. Density = 40.000000.
+22: It is Parallelepiped: a = 1. b = 2. c = 1. Volume = 2.000000. Density = 5.000000.
+23: It is Tetrahedron: a = 3. Volume = 0.500000. Density = 49.000000.
+24: It is Tetrahedron: a = 3. Volume = 0.500000. Density = 40.000000.
